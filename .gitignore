@@ -230,3 +230,6 @@ pip-log.txt
 .mr.developer.cfg
 *.ide
 .vs/Emby.ApiClient/v15/Server/sqlite3/db.lock
+.vs/Emby.ApiClient/DesignTimeBuild/.dtbcache
+.vs/Emby.ApiClient/v15/Server/sqlite3/storage.ide-shm
+.vs/Emby.ApiClient/v15/Server/sqlite3/storage.ide-wal
